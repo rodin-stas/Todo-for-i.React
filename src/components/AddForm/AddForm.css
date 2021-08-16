@@ -1,0 +1,10 @@
+.add-form{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+.add-input{
+    flex-grow: 1;
+    margin-right: 3px;
+}
